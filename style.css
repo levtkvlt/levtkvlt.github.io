@@ -1,0 +1,97 @@
+body {
+    background-color: #000;
+    color:#ddd;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a { 
+    color: #777;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+    font-style: italic;
+}
+
+h2 { 
+    font-size: 1.2em;
+    margin-top: 0.4em;
+}
+
+img {
+    max-width: 77%;
+    max-height: 77vh;
+}
+
+/* Menu */
+
+.menulink {
+    font-size: 2.2em;
+    margin-top: 0.4em;
+    margin-bottom: 2em;
+}
+
+.menulink a {
+    font-style: italic;
+}
+
+.menulinksmall {
+    font-size: 2em;
+    margin-top: 0.4em;
+    margin-bottom: 2em;
+}
+
+.menulinksmall a {
+    font-style: italic;
+}
+
+/* Footer */
+
+.footer {
+    color: #4d4d4d;
+    font-size: small;
+    margin-top: 77px;
+    margin-bottom: 44px;
+}
+
+.footerimg {
+    max-width: 2%;
+    max-height: 2vh;
+}
+
+/* Artists Page */
+
+.artist {
+    font-size: 2em;
+    font-style: italic;
+    margin-bottom: 0.4em;
+}
+
+/* Catalog Page */
+
+.album {
+    font-size: 2em;
+}
+
+.albumart {
+    max-width: 444px;
+    margin-bottom: 0.4em;
+    margin-top: 4em;
+}
+
+.underconstruction {
+    margin-top: 144px;
+    margin-bottom: 144px;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+ol {
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+    list-style: none;
+    line-height: 1.7em;
+}
