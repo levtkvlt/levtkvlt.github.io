@@ -60,8 +60,12 @@ img {
 .artist {
     font-size: 2em;
     font-style: italic;
+    margin-top: 0;
+}
+
+.artistlogo {
+    max-width: 222px;
     margin-top: 44px;
-    margin-bottom: 0.4em;
 }
 
 /* Catalog Page */
