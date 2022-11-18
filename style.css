@@ -58,8 +58,8 @@ img {
 }
 
 .footerimg {
-    max-width: 2%;
-    max-height: 2vh;
+    width: 27px;
+    height: 27px;
 }
 
 /* Artists Page */
