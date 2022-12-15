@@ -94,3 +94,16 @@ ol {
     list-style: none;
     line-height: 1.7em;
 }
+
+/* Offerings Page */
+
+.offeringimg {
+    max-width: 222px;
+    padding: 22px;
+}
+
+.offering {
+    font-size: 2em;
+    font-style: italic;
+    margin-top: 0;
+}
