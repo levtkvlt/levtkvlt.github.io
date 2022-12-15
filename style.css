@@ -114,7 +114,13 @@ ol {
 }
 
 .offeringsgrid {
-    -webkit-column-width: 333px;
-    -moz-column-width: 333px;
-    column-width: 333px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 44px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.offeringsgriditem {
+    /* padding: 22px; */
 }
