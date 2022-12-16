@@ -109,16 +109,17 @@ ol {
     margin-bottom: 0;
 }
 
-.offering a {
-    font-style: normal;
+.offeringmoreinfo {
+    margin-top: 7px;
 }
 
 .offeringsgrid {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto;
     row-gap: 44px;
     margin-left: auto;
     margin-right: auto;
+    max-width: 777px;
 }
 
 /* .offeringsgriditem {
