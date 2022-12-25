@@ -122,6 +122,7 @@ ol {
     max-width: 777px;
 }
 
-/* .offeringsgriditem {
-    padding: 22px;
-} */
+.psmall {
+    font-size: 1em;
+    font-style: italic;
+}
