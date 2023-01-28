@@ -114,15 +114,15 @@ ol {
     margin-bottom: 0px;
 }
 
-.offeringmoreinfosoldout {
+.offeringmoreinfosoldout a {
     margin-top: 7px;
     margin-bottom: 0px;
-    color: #f00;
+    color: #591d1d;
 }
 
 .offeringsgrid {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto;
     row-gap: 44px;
     margin-left: auto;
     margin-right: auto;
