@@ -114,6 +114,12 @@ ol {
     margin-bottom: 0px;
 }
 
+.offeringmoreinfosoldout {
+    margin-top: 7px;
+    margin-bottom: 0px;
+    color: #f00;
+}
+
 .offeringsgrid {
     display: grid;
     grid-template-columns: auto auto;
