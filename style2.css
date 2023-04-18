@@ -6,7 +6,7 @@ body {
     padding: 4%;
 }
 
-li {
+li, details {
     font-size: 21px;
     line-height: 174%;
     list-style-position: inside;
@@ -27,6 +27,11 @@ a {
     color: #070;
 }
 
-.topbottom {
+.above {
     text-align: center;
+}
+
+.below {
+    text-align: center;
+    margin-top: 47px;
 }
