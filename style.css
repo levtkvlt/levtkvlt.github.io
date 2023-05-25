@@ -2,135 +2,36 @@ body {
     background-color: #000;
     color:#ddd;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 4%;
+}
+
+li, details {
+    font-size: 21px;
+    line-height: 174%;
+    list-style-position: inside;
+}
+
+ul  {
+    list-style: disc;
+    color: #ddd;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #444;
+}
+
+.available {
+    color: #070;
+}
+
+.above {
     text-align: center;
 }
 
-p {
-    font-size: 1.4em;
+.below {
+    text-align: center;
+    margin-top: 47px;
 }
-
-a { 
-    color: #777;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-h1 {
-    font-size: 2.4em;
-}
-
-h2 { 
-    font-size: 2.1em;
-    margin-top: 0.4em;
-}
-
-img {
-    max-width: 77%;
-    max-height: 77vh;
-}
-
-/* Menu */
-
-.menu {
-    font-size: 2em;
-    margin-top: 0.4em;
-    margin-bottom: 2em;
-}
-
-.menu a {
-    font-style: italic;
-}
-
-/* Footer */
-
-.footer {
-    color: #4d4d4d;
-    font-size: small;
-    margin-top: 77px;
-    margin-bottom: 44px;
-}
-
-.footerimg {
-    width: 27px;
-    height: 27px;
-}
-
-/* Artists Page */
-
-.artist {
-    font-size: 2em;
-    font-style: italic;
-    margin-top: 0;
-}
-
-.artistlogo {
-    max-width: 222px;
-    margin-top: 44px;
-}
-
-/* Catalog Page */
-
-.album {
-    font-size: 2em;
-}
-
-.albumart {
-    max-width: 444px;
-    margin-bottom: 0.4em;
-    margin-top: 4em;
-}
-
-.underconstruction {
-    margin-top: 144px;
-    margin-bottom: 144px;
-    font-size: xx-large;
-    font-style: oblique;
-}
-
-ol {
-    margin-top: 2em;
-    padding-inline-start: 0;
-    padding-inline-end: 0;
-    list-style: none;
-    line-height: 1.7em;
-}
-
-/* Offerings Page */
-
-.offeringimg {
-    max-width: 222px;
-    padding: 22px;
-}
-
-.offering {
-    font-size: 1.7em;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-.offeringmoreinfo, .offeringmoreinfosoldout {
-    margin-top: 7px;
-    margin-bottom: 0px;
-}
-
-.offeringmoreinfosoldout a {
-    margin-top: 7px;
-    margin-bottom: 0px;
-    color: #591d1d;
-}
-
-.offeringsgrid {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    row-gap: 44px;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 777px;
-}
-
-.psmall {
-    font-size: 1em;
-    font-style: italic;
-}
-
-/* need to sync again lol */
